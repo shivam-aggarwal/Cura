@@ -12,14 +12,16 @@ Some innovations we are trying to come up with:
 
 
 ## Screenshots
-
+![Screenshot-1](https://github.com/JaiParakh/Cura/Screenshot-1.jpg)
+![Screenshot-2](https://github.com/JaiParakh/Cura/Screenshot-2.jpg)
+![Screenshot-3](https://github.com/JaiParakh/Cura/Screenshot-3.jpg)
 
 
 ## Achievements
 
 **We were amongst top 61 teams selected across India for the Feedback Phase of Google Build For Digital India**
 
-![Google Build For Digital India](https://github.com/JaiParakh/Cura/images/team.jpg)
+![Google Build For Digital India](https://github.com/JaiParakh/Cura/team.jpg)
 
 
 ## Requirements
