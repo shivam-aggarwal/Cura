@@ -8,7 +8,7 @@ Some innovations we are trying to come up with:
 
 - Preventive healthcare by using Machine Learning, accurately to analyze the nutritional chart and to predict if that product can cause allergy.
 - Measures to live a healthy lifestyle if someone has them, using technology.
-- [Presentation]()
+- [Presentation](https://drive.google.com/open?id=1dM9Ceb4VvpGoQoFE8h7gV1W_TXBvH8XV)
 
 
 ## Screenshots
