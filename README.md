@@ -2,7 +2,7 @@
 
 Making life easy, having healthy food and getting Medicare solutions on time is all we want. It will be much better if someone's health-related things can be digitized.
 
-Cura is an application that keeps a track of user allergies that consists of a Web application where user can fetch information about what is being consumed by him/her and can fed the ingredient or composition details of food items, that can predict the chances of getting same allergy in future by using any other or similar kind of product.
+Cura is an application that keeps a track of user allergies that consists of a Web application and an android app where user can fetch information about what is being consumed by him/her and can fed the ingredient or composition details of food items, that can predict the chances of getting same allergy in future by using any other or similar kind of product.
 
 Some innovations we are trying to come up with:
 
