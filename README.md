@@ -12,9 +12,9 @@ Some innovations we are trying to come up with:
 
 
 ## Screenshots
-<img src="https://github.com/JaiParakh/Cura/blob/master/Screenshot-1.jpg" width="250" height="400">
-![Screenshot-2](https://github.com/JaiParakh/Cura/blob/master/Screenshot-2.jpg)
-![Screenshot-3](https://github.com/JaiParakh/Cura/blob/master/Screenshot-3.jpg)
+<img src="https://github.com/JaiParakh/Cura/blob/master/Screenshot-1.jpg" width="250" height="450">
+<img src="https://github.com/JaiParakh/Cura/blob/master/Screenshot-2.jpg" width="250" height="450">
+<img src="https://github.com/JaiParakh/Cura/blob/master/Screenshot-3.jpg" width="250" height="450">
 
 
 ## Achievements
