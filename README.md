@@ -20,7 +20,7 @@ Some innovations we are trying to come up with:
 
 ## Achievements
 
-**We were amongst top 61 teams selected across India for the Feedback Phase of Google Build For Digital India**
+**We were amongst the 61 teams selected across India for the Feedback Phase of Google Build For Digital India**
 
 ![Google Build For Digital India](https://github.com/JaiParakh/Cura/blob/master/team.jpg)
 
