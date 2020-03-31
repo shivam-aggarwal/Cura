@@ -1,0 +1,16 @@
+#dash{
+    font-size: 20px;
+    background-color: #283e4a;
+    padding-right: 3em;
+}
+
+#dash .navbar-brand{
+    color: #fff;
+    font-size: 28px;
+    padding-left: 2em;
+}
+
+#dash .nav-item{
+    color: #fff;
+    padding-right: 1em;
+}

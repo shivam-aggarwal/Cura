@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">CURA</string>
+
+    <string name="margin_below_text">4dp</string>
+    <string name="welcomeNote">Welcome to CURA!!! \n\nWe offer you a platform that can make you aware of those allergies that may be responsible for your illness. \n\nHealth conscious??? Yes, You are on right address. Kindly sign-in to start your journey. \n \n</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="perferNotToSay">Prefer not to say</string>
+    <string name="selectGender">Gender:</string>
+    <string name="saveButton">save details</string>
+    <string name="selectBirthday">select birthdate</string>
+    <string name="title_activity_user_main">UserMainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="logout">Logout</string>
+    <string name="enterFoodName">Hi, Please enter food name:</string>
+    <string name="enterFoodIngredients">Enter ingredients:</string>
+    <string name="saveFoodItem">Save Food</string>
+    <string name="AddIngredient">Add Ingredients</string>
+    <string name="AddIngredientsUsingCamera">Add Ingredients using Camera</string>
+
+    <string name="AnalyseButton">Analyze</string>
+    <string name="flash_auto">auto</string>
+    <string name="flash_off">off</string>
+    <string name="flash_on">on</string>
+    <string name="ingredientListMessage">THESE ARE THE INGREDIENTS THAT YOU CONSUMED AS PER THE DETAILS ON THE INGREDIENTS CHART.</string>
+
+</resources>
