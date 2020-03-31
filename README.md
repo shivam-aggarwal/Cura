@@ -12,7 +12,7 @@ Some innovations we are trying to come up with:
 
 
 ## Screenshots
-![Screenshot-1](https://github.com/JaiParakh/Cura/blob/master/Screenshot-1.jpg) <!-- .element height="50px" width="50px" -->
+<img src="https://github.com/JaiParakh/Cura/blob/master/Screenshot-1.jpg" width="100" height="400">
 ![Screenshot-2](https://github.com/JaiParakh/Cura/blob/master/Screenshot-2.jpg)
 ![Screenshot-3](https://github.com/JaiParakh/Cura/blob/master/Screenshot-3.jpg)
 
