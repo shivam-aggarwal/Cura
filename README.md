@@ -18,12 +18,27 @@ Some innovations we are trying to come up with:
   <img src="https://github.com/JaiParakh/Cura/blob/master/Screenshot-3.jpg" width="250" height="450">
 </p>
 
+
 ## Achievements
 
 **We were amongst the 61 teams selected across India for the Feedback Phase of Google Build For Digital India**
 
 ![Google Build For Digital India](https://github.com/JaiParakh/Cura/blob/master/team.jpg)
 
+
+## Technologies
+
+<p float="left">
+    <img src="https://simpleicons.org/icons/javascript.svg" width="45px">&nbsp&nbsp&nbsp
+    <img src="https://simpleicons.org/icons/node-dot-js.svg" width="45px">&nbsp&nbsp&nbsp
+    <img src="https://simpleicons.org/icons/react.svg" width="45px">&nbsp&nbsp&nbsp
+    <img src="https://simpleicons.org/icons/python.svg" width="45px">&nbsp&nbsp&nbsp
+    <img src="https://simpleicons.org/icons/firebase.svg" width="45px">&nbsp&nbsp&nbsp
+    <img src="https://simpleicons.org/icons/bootstrap.svg" width="45px">&nbsp&nbsp&nbsp
+    <img src="https://simpleicons.org/icons/java.svg" width="45px">&nbsp&nbsp&nbsp
+    <img src="https://simpleicons.org/icons/css3.svg" width="45px">&nbsp&nbsp&nbsp
+    <img src="https://simpleicons.org/icons/androidstudio.svg" width="45px">&nbsp&nbsp&nbsp
+</p>
 
 ## Requirements
 
@@ -37,5 +52,3 @@ Some innovations we are trying to come up with:
 - [Rohan Verma](https://www.linkedin.com/in/rsrohanverma/)
 - [Shivam Aggarwal](https://www.linkedin.com/in/shivam-aggarwal-4a65a2184/)
 - [Shreyansh Varshney](https://www.linkedin.com/in/shreyanshvarshney/)
-
-**DSC JIIT-128**
