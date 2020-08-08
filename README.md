@@ -1,4 +1,4 @@
-# Cura (Build For Digital India)
+# Cura (Google Build For Digital India)
 
 Making life easy, having healthy food and getting Medicare solutions on time is all we want. It will be much better if someone's health-related things can be digitized.
 
